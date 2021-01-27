@@ -48,6 +48,6 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
 ---
 
 
-## :rocker: Material de apoio
+## :rocket: Material de apoio
 
 https://www.notion.so/Adonis-v5-0176b11c182042cebab5d958ccc53d4d
