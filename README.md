@@ -46,3 +46,8 @@ Para instalar as dependências e iniciar o projeto, você pode utilizar o Yarn o
    - `$ git push origin minha_feature`
 
 ---
+
+
+## :rocker: Material de apoio
+
+https://www.notion.so/Adonis-v5-0176b11c182042cebab5d958ccc53d4d
